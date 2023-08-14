@@ -1,13 +1,13 @@
 ## Olá, me chamo Ayrton! ! 
--- Bem vindo ao meu perfil GitHub 👋
+ Bem vindo ao meu perfil GitHub 👋
 
 ## Informações Academicas
 
--- Academico de analise e desenvolvimento de sistemas
+ Academico de analise e desenvolvimento de sistemas
 
 ## Cursos de extensão/tecnicos
 
--- Programador de sistemas - SENAC GO Cora Coralina
+ Programador de sistemas - SENAC GO Cora Coralina
 
 ## Ferramentas e Tecnologias
 
