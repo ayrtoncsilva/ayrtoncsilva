@@ -1,16 +1,20 @@
-### Hi there 👋
+#Olá, me chamo Ayrton! ! 
+##Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**ayrtoncsilva/ayrtoncsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Informações Academicas
 
-Here are some ideas to get you started:
+##Academico de analise e desenvolvimento de sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Cursos de extensão/tecnicos
+
+##Programador de sistemas - SENAC GO Cora Coralina
+
+## Ferramentas e Tecnologias
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
+## Estou Aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
