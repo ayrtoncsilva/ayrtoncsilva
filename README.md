@@ -1,9 +1,9 @@
-# Olá, me chamo Ayrton! ! 
+## Olá, me chamo Ayrton! ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-# Informações Academicas
+## Informações Academicas
 
-## Academico de analise e desenvolvimento de sistemas
+- Academico de analise e desenvolvimento de sistemas
 
 ## Cursos de extensão/tecnicos
 
