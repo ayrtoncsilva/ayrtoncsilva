@@ -1,5 +1,5 @@
 ## Olá, me chamo Ayrton! ! 
- Bem vindo ao meu perfil GitHub 👋
+ Tenho 27 anos e atualmente curso analise e desenvolvimento de sistemas. Sou pós graduado em ciencias biomedicas e pós-graduado em estetica avançada. Amante da tecnologia, gosto de ajudar pessoas, facilitando processos e criando novas possibilidades e por este motivo me dedico totalmente as areas tecnologicas. 
 
 ## Informações Academicas
 
