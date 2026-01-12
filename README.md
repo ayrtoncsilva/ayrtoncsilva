@@ -39,7 +39,7 @@ Atualmente curso Engenharia de Software e atuo no desenvolvimento de sistemas we
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ayrtoncsilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayrtoncsilva&commits_year=2025)
   />
 
 <img 
