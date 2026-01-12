@@ -33,10 +33,4 @@ Atualmente curso Engenharia de Software e atuo no desenvolvimento de sistemas we
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ayrtoncsilva=anuraghazra&show_icons=true)
-          
-          
-          
-          
-          
-          
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayrtoncsilva&show_icons=true&theme=default)
